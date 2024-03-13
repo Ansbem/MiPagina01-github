@@ -3,7 +3,11 @@ body{
     padding: 0;
     
 }
-
+.greeting {
+ background-color: rgb(77, 61, 34);
+ color: white;
+ border-radius: 15px;
+}
 /* -----------------------------
 estilos del encabezado
 -------------------------------*/
